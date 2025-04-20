@@ -1,0 +1,8 @@
+requests
+argparse
+pymongo
+flask
+flask_pymongo
+tqdm
+rich
+pydantic
